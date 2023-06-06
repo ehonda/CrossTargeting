@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrotliExample", "BrotliExample\BrotliExample.csproj", "{98C35E07-C48C-4C78-9B9A-EF0711947EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrotliPackage", "BrotliPackage\BrotliPackage.csproj", "{E1159B7C-8E3B-404F-B90C-BABB34AE80A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrotliPackage.Analyzer", "BrotliPackage.Analyzer\BrotliPackage.Analyzer.csproj", "{43F5EB97-AC8C-4838-8589-DB496175B839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrotliConsumer", "BrotliConsumer\BrotliConsumer.csproj", "{DCE7804E-ED3F-4A0C-9445-78C945605F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalPackage", "ConditionalPackage\ConditionalPackage.csproj", "{25268661-D37D-4426-96DA-80481848744F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{6A052B2B-9DC4-46CA-AEED-067E9202AA57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalPackage.Analyzer", "ConditionalPackage.Analyzer\ConditionalPackage.Analyzer.csproj", "{0A76DE89-06E2-461A-84A9-4EC37C97C2C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C35E07-C48C-4C78-9B9A-EF0711947EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C35E07-C48C-4C78-9B9A-EF0711947EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C35E07-C48C-4C78-9B9A-EF0711947EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C35E07-C48C-4C78-9B9A-EF0711947EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1159B7C-8E3B-404F-B90C-BABB34AE80A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1159B7C-8E3B-404F-B90C-BABB34AE80A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1159B7C-8E3B-404F-B90C-BABB34AE80A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1159B7C-8E3B-404F-B90C-BABB34AE80A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F5EB97-AC8C-4838-8589-DB496175B839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F5EB97-AC8C-4838-8589-DB496175B839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F5EB97-AC8C-4838-8589-DB496175B839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F5EB97-AC8C-4838-8589-DB496175B839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE7804E-ED3F-4A0C-9445-78C945605F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE7804E-ED3F-4A0C-9445-78C945605F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE7804E-ED3F-4A0C-9445-78C945605F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE7804E-ED3F-4A0C-9445-78C945605F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25268661-D37D-4426-96DA-80481848744F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25268661-D37D-4426-96DA-80481848744F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25268661-D37D-4426-96DA-80481848744F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25268661-D37D-4426-96DA-80481848744F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A052B2B-9DC4-46CA-AEED-067E9202AA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A052B2B-9DC4-46CA-AEED-067E9202AA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A052B2B-9DC4-46CA-AEED-067E9202AA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A052B2B-9DC4-46CA-AEED-067E9202AA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A76DE89-06E2-461A-84A9-4EC37C97C2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A76DE89-06E2-461A-84A9-4EC37C97C2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A76DE89-06E2-461A-84A9-4EC37C97C2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A76DE89-06E2-461A-84A9-4EC37C97C2C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

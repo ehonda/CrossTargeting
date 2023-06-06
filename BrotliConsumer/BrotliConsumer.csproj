@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <IsPackable>false</IsPackable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="BrotliPackage" Version="0.1.0" />
+      <PackageReference Include="BrotliPackage.Analyzer" Version="0.1.0" />
+    </ItemGroup>
+
+</Project>
